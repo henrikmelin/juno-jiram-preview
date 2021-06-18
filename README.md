@@ -7,4 +7,4 @@
 * `JUNO_JIRAM_I_MBAND` - only the M band portion of the imager
 * `JUNO_JIRAM_I_LBAND` - only the L band portion of the imager
 
-![JIRAM Pata Droducts](/resources/juno_jiram_products.pnglogo.png)
+![JIRAM Pata Droducts](resources/juno_jiram_products.pnglogo.png)
